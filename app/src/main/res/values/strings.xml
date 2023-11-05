@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Jasonne\'sAnimalNames</string>
+    <string name="desc_a">Ant: Known for their incredible strength and teamwork in the tiny world they inhabit.</string>
+    <string name="desc_b">Bear: A symbol of power and resilience in the wilderness.</string>
+    <string name="desc_c">Cat: Graceful and independent creatures that capture our hearts.</string>
+    <string name="desc_d">Dog: Loyal companions that offer unconditional love and companionship to humans.</string>
+    <string name="desc_e">Elephant: Majestic and gentle giants, they embody the beauty of the animal kingdom.</string>
+    <string name="desc_f">Fox: Clever and sly, these animals adapt to their surroundings with ingenuity.</string>
+    <string name="desc_g">Giraffe: Towering and elegant, they inspire with their height and grace.</string>
+    <string name="desc_h">Horse: A symbol of freedom and strength, a noble creature.</string>
+    <string name="desc_i">Iguana: Nature\'s unique creation, they showcase the diversity of life on Earth.</string>
+    <string name="desc_j">Jaguar: A powerful predator and a symbol of stealth in the wild.</string>
+    <string name="desc_k">Kangaroo: Known for their incredible leaps, they symbolize adaptability and mobility.</string>
+    <string name="desc_l">Lion: The king of the jungle, representing courage and leadership.</string>
+    <string name="desc_m">Monkey: Playful spirits of the forest, they remind us of the joy of life.</string>
+    <string name="desc_n">Newt: Masters of adaptation, they excel in changing environments.</string>
+    <string name="desc_o">Octopus: Mysterious creatures of the deep sea with extraordinary intelligence.</string>
+    <string name="desc_p">Penguin: Survivors in harsh conditions, they embody resilience and togetherness.</string>
+    <string name="desc_q">Quokka: Known as the happiest marsupial, they bring smiles to our faces.</string>
+    <string name="desc_r">Rabbit: Energetic and fertile animals that symbolize reproduction and vitality.</string>
+    <string name="desc_s">Snake: Elegant and agile, they are a symbol of transformation and change.</string>
+    <string name="desc_t">Tiger: A majestic and powerful creature, representing strength and courage.</string>
+    <string name="desc_u">Uakari: Colorful rainforest dwellers that add diversity to the Amazon.</string>
+    <string name="desc_v">Vulture: Nature\'s clean-up crew, providing an essential ecological service.</string>
+    <string name="desc_w">Wolf: Family-oriented creatures that thrive in the wild together.</string>
+    <string name="desc_x">Xenopus: Fascinating amphibians that contribute to scientific discovery.</string>
+    <string name="desc_y">Yak: Endurance and adaptability in high-altitude environments.</string>
+    <string name="desc_z">Zebra: Beauty in black and white stripes, a symbol of diversity.</string>
+    <string name="manage_block_animals">Manage Block Animals</string>
+    <string name="block_animal">Block Animal</string>
+    <string name="description_here">Description Here!!</string>
+
+
+</resources>
